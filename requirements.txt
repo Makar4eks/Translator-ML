@@ -1,0 +1,13 @@
+torch
+transformers
+datasets
+sentencepiece
+fastapi
+uvicorn
+pydantic
+numpy
+tqdm
+pandas
+scikit-learn
+sacrebleu
+pyarrow

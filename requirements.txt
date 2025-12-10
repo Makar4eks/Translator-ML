@@ -1,5 +1,5 @@
 torch
-transformers==4.34.0
+transformers
 datasets
 sentencepiece
 fastapi
@@ -12,3 +12,4 @@ scikit-learn
 sacrebleu
 sacremoses
 pyarrow
+accelerate
